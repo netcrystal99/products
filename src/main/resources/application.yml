@@ -33,3 +33,7 @@ spring:
     consumer:
       enable-auto-commit: true
 eventTopic: eventTopicDocker
+
+
+
+
